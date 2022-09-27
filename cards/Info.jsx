@@ -1,5 +1,5 @@
 import { Card, Text  , Avatar , Grid , User} from "@nextui-org/react";
-import styles from '../../styles/info.module.css'
+import styles from '../styles/info.module.css'
 import React from 'react'
 
 
@@ -32,6 +32,3 @@ import React from 'react'
   )
 }
 
-
-
-export default Info

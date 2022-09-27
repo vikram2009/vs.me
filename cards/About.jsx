@@ -1,6 +1,6 @@
 import React from 'react'
 import {Text} from '@nextui-org/react'
-import styles from '../../styles/info.module.css'
+import styles from '../styles/info.module.css'
 
  export const About = () => {
     return (
@@ -34,6 +34,5 @@ import styles from '../../styles/info.module.css'
 }
 
 
-export default About
 
 
