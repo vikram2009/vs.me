@@ -8,8 +8,8 @@ import Image from "next/image";
 import github from '../public/github.svg'
 
 //cards :-
-import { Info } from './cards/info'
-import { About } from './cards/about'
+import { Info } from './cards/Info'
+import { About } from './cards/About'
 export default function Home() {
 
 

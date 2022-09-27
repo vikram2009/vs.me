@@ -4,7 +4,7 @@ import React from 'react'
 
 
 
- const Info = () => {
+export const Info = () => {
   return (
     <div className={styles.info}>
 
