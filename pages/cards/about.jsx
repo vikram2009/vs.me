@@ -2,7 +2,7 @@ import React from 'react'
 import {Text} from '@nextui-org/react'
 import styles from '../../styles/info.module.css'
 
-export const About = () => {
+ const About = () => {
     return (
       <div className={styles.about}>
             
@@ -32,3 +32,6 @@ export const About = () => {
  
     )
 }
+
+
+export default About

@@ -4,7 +4,7 @@ import React from 'react'
 
 
 
-export const Info = () => {
+ const Info = () => {
   return (
     <div className={styles.info}>
 
@@ -32,3 +32,6 @@ export const Info = () => {
   )
 }
 
+
+
+export default Info
