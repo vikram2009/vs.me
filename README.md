@@ -2,9 +2,14 @@ my website
 
 urls :-
 
-vs-app-git-main-vikram2009.vercel.app
-vs-app-vikram2009.vercel.app
-vs-app.vercel.app
+https://vs-app-git-main-vikram2009.vercel.app
+
+https://vs-app-vikram2009.vercel.app
+
+https://vs-app.vercel.app
+
 www.vikramsrinivas.me
-app.vikramsrinivas.me
-vikramsrinivas.me
+
+https://app.vikramsrinivas.me
+
+https://vikramsrinivas.me
