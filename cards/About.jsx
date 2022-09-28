@@ -1,6 +1,6 @@
 import React from 'react'
 import {Text} from '@nextui-org/react'
-import styles from '../styles/info.module.css'
+import styles from '../styles/cards.module.css'
 
  export const About = () => {
     return (
@@ -25,7 +25,7 @@ import styles from '../styles/info.module.css'
     }}
     weight="bold"
     >
-    I am Vikram Srinivas a 13 year old software developer , Building the future 
+    I am Vikram Srinivas a 13 year old software developer , Building the future , Getting better everyday 
             </Text>
             
       </div>

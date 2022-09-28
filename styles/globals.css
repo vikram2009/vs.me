@@ -6,30 +6,23 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-.res {
-  display: none;
-}
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
 
 * {
   box-sizing: border-box;
 }
 
 @media only screen and (min-width: 200px ) and (max-width: 900px) {
-body {
-  display: none;
-}
-.res {
-  display: contents;
-}
-
-.github {
-  margin-left: 20px;
-}
-}
-
-
+  body {
+  align-items: center;
+  }
+  .info_info__nC8Sc{
+    padding: 51px 37px;
+  }
+  
+  .info_about__4tdVX{
+    padding: 0px 19px;
+  }
+  }
+  
+  

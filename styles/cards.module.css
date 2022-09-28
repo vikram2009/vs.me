@@ -1,0 +1,39 @@
+.info {
+    padding:51px 183px;
+}
+
+.about {
+  padding:0px 183px;
+}
+
+.skills{
+  padding:0px 183px;
+
+}
+
+.tech {
+  display: flex;
+  gap: 15px;
+}
+
+@media only screen and (min-width: 200px ) and (max-width: 900px) {
+
+    .info{
+      padding: 51px 37px;
+    }
+    
+    .about{
+      padding: 0px 19px;
+    }
+
+    .skills {
+      padding: 0px 19px;
+    }
+    .tech {
+      padding: 0px 19px;
+      display: inline-table;
+      
+    }
+    }
+    
+    
