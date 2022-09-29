@@ -11,7 +11,7 @@ import github from "../public/github.svg";
 import { Info } from "../cards/Info";
 import { About } from "../cards/About";
 import { Technologies } from "../cards/Technologies";
-
+import { Contact } from "../cards/Contact";
 export default function Home() {
   return (
     <div>
@@ -39,14 +39,13 @@ export default function Home() {
           content="Vikram Srinivas"
         />
         <link href="https://www.vikramsrinivas.me/icon.jpg" rel="canonical" />
-        <meta content="" property="og:image"/>
-
-
-</Head>
+        <meta content="" property="og:image" />
+      </Head>
       <main>
         <Info />
         <About />
         <Technologies />
+        <Contact />
       </main>
     </div>
   );

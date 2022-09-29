@@ -1,39 +1,50 @@
 .info {
-    padding:51px 183px;
+  padding: 51px 183px;
 }
 
 .about {
-  padding:0px 183px;
+  padding: 0px 183px;
 }
 
-.skills{
-  padding:0px 183px;
-
+.skills {
+  padding: 0px 183px;
 }
 
 .tech {
   display: flex;
-  gap: 15px;
+  gap: 17px;
 }
 
-@media only screen and (min-width: 200px ) and (max-width: 900px) {
+.contact {
+  padding: 0px 183px;
+}
 
-    .info{
-      padding: 51px 37px;
-    }
-    
-    .about{
-      padding: 0px 19px;
-    }
+.form {
+  padding-top: 29px;
+}
 
-    .skills {
-      padding: 0px 19px;
-    }
-    .tech {
-      padding: 0px 19px;
-      display: inline-table;
-      
-    }
-    }
-    
-    
+.submit {
+  padding-left: 5px;
+}
+
+@media only screen and (min-width: 200px) and (max-width: 900px) {
+  .info {
+    padding: 51px 37px;
+  }
+
+  .about {
+    padding: 0px 19px;
+  }
+
+  .skills {
+    padding: 0px 19px;
+  }
+  .tech {
+    padding: 0px 19px;
+    display: inline-table;
+    gap: 2;
+  }
+  .contact {
+    padding: 0px 19px;
+  }
+}
