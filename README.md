@@ -13,3 +13,5 @@ www.vikramsrinivas.me
 https://app.vikramsrinivas.me
 
 https://vikramsrinivas.me
+
+https://vikramsrinivas.tech
