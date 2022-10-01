@@ -13,6 +13,7 @@ import { About } from "../cards/About";
 import { Technologies } from "../cards/Technologies";
 import { Contact } from "../cards/Contact";
 export default function Home() {
+
   return (
     <div>
       <Head>
@@ -42,11 +43,13 @@ export default function Home() {
         <meta content="" property="og:image" />
       </Head>
       <main>
-        <Info />
+      <Info />
         <About />
         <Technologies />
         <Contact />
+      
       </main>
     </div>
   );
 }
+
