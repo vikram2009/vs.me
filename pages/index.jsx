@@ -3,6 +3,7 @@ import { Card, Text } from "@nextui-org/react";
 import styles from "../styles/Home.module.css";
 import Link from "next/link";
 import Image from "next/image";
+import 'animate.css';
 
 //svg imports :-
 import github from "../public/github.svg";
@@ -15,7 +16,7 @@ import { Contact } from "../cards/Contact";
 export default function Home() {
 
   return (
-    <div>
+    <div className="animate__animated animate__slideInDown">
       <Head>
         <title>Vikram Srinivas</title>
         <link rel="icon" href="/icon.ico" />
