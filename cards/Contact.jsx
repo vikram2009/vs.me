@@ -47,7 +47,7 @@ export const Contact = () => {
           </a>
         </Link>
 
-        <Link href={"https://twitter.com/_toxic_coder"}>
+        <Link href={"https://twitter.com/hey_vikram"}>
           <a target={"_blank"} rel="noopener noreferrer">
             <Card
               isPressable
